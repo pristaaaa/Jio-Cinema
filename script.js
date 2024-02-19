@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://crichd.site/cn1/?c=willowextra"
+  file: "https://crichd.site/cn1/play.php?key=AKI&c=willowextra"
 });

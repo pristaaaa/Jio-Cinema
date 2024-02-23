@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://crichd.site/cn1/play.php?key=AKI&c=willowextra"
+  file: "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvseng_test04day01230224/master.m3u8"
 });

@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvseng_test04day02240224/master.m3u8"
+  file: "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_indvseng_test04day02240224/master.m3u8"
 });
